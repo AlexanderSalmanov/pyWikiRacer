@@ -1,0 +1,6 @@
+env/
+pg_data/
+__pycache__/
+# debugging stuff
+decorators.py 
+queries.sql
